@@ -10,6 +10,6 @@
     <a href="https://github.com/contact">Contact Support</a> •
     <a href="https://githubstatus.com">GitHub Status</a> •
     <a href="https://twitter.com/githubstatus">@githubstatus</a> •
-    <a href="https://github.com/sponsors/Simonwep">Just kidding, check me out!</a>
+    <a href="https://www.linkedin.com/in/yusuff-mustapha">Just kidding, check me out!</a>
     </div>
 </div>
